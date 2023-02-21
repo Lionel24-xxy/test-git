@@ -9,4 +9,6 @@ func main(){
 
   b := 2
   fmt.Printf("b: %v\n", b)
+  
+  
 }
